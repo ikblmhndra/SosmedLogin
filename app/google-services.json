@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "367740243804",
+    "firebase_url": "https://nameless-3f6e8-default-rtdb.firebaseio.com",
+    "project_id": "nameless-3f6e8",
+    "storage_bucket": "nameless-3f6e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367740243804:android:3004de54f30f5cfbb03b99",
+        "android_client_info": {
+          "package_name": "com.nameless.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367740243804-onc13pmmafsju6usdmpth6gkqclitjup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmI9N-AqfXn6NSaXeYo8KkpiN6SeEdTR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367740243804-onc13pmmafsju6usdmpth6gkqclitjup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367740243804:android:64bb0e5e0a59015fb03b99",
+        "android_client_info": {
+          "package_name": "com.nameless.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367740243804-qlssqr5fvahsulrbjvoq46c9hh3hkdfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nameless.googlelogin",
+            "certificate_hash": "dc1cf2d38088605a13b836637470aa40956b2d5b"
+          }
+        },
+        {
+          "client_id": "367740243804-onc13pmmafsju6usdmpth6gkqclitjup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmI9N-AqfXn6NSaXeYo8KkpiN6SeEdTR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367740243804-onc13pmmafsju6usdmpth6gkqclitjup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367740243804:android:34971b93d25ac754b03b99",
+        "android_client_info": {
+          "package_name": "com.nameless.sosmedlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367740243804-2n08n2bdnr8k5b9q9mn6tripggioicbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nameless.sosmedlogin",
+            "certificate_hash": "dc1cf2d38088605a13b836637470aa40956b2d5b"
+          }
+        },
+        {
+          "client_id": "367740243804-onc13pmmafsju6usdmpth6gkqclitjup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmI9N-AqfXn6NSaXeYo8KkpiN6SeEdTR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367740243804-onc13pmmafsju6usdmpth6gkqclitjup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
